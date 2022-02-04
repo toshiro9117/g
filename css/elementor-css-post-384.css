@@ -1,0 +1,57 @@
+.elementor-384 .elementor-element.elementor-element-5c27b58{margin-top:13px;margin-bottom:69px;padding:0px 35px 0px 35px;}.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-media-image{border-radius:20px 20px 20px 20px !important;}.elementor-384 .elementor-element.elementor-element-6e9c746 .entry-main{padding:0px 0px 0px 0px !important;}.elementor-384 .elementor-element.elementor-element-70d3b3a .aux-widget-container{text-align:center;}.elementor-384 .elementor-element.elementor-element-70d3b3a{width:auto;max-width:auto;position:absolute;top:342px;left:-132px;}.elementor-384 .elementor-element.elementor-element-812227c .aux-widget-container{text-align:center;}.elementor-384 .elementor-element.elementor-element-812227c{width:auto;max-width:auto;position:absolute;top:405px;right:-94px;}/* Start custom CSS for aux_recent_portfolios_masonry, class: .elementor-element-6e9c746 */.elementor-384 .elementor-element.elementor-element-6e9c746 .entry-media {
+    margin-bottom: 0;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-slideup li  a span::before, .elementor-384 .elementor-element.elementor-element-6e9c746 .aux-selected span::after, .elementor-384 .elementor-element.elementor-element-6e9c746 .aux-slideup li  a span{
+    color: var(--e-global-color-text);
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 0;
+    text-transform: capitalize!important;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-selected span::after, .elementor-384 .elementor-element.elementor-element-6e9c746 .aux-selected span, .elementor-384 .elementor-element.elementor-element-6e9c746 .aux-selected  span::before{
+    color: var(--e-global-color-secondary)!important;
+    font-weight: bold!important;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .widget-container ul  span{
+    padding: 0 18px;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .widget-container ul  li a{
+    position: relative;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .widget-container ul  li a::after{
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: var(--e-global-color-text);
+    position: absolute;
+    border-radius: 50px;
+    top: 19px;
+    left: 0;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .widget-container ul li .aux-selected::after{
+    display: none;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-filters ul {
+    border: 3px solid var( --e-global-color-d21b449 );
+    border-radius: 35px;
+    padding: 1px 32px;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-portfolio-columns{
+    margin-top: 47px;
+}
+@media only screen and (max-width: 1025px) {
+.elementor-384 .elementor-element.elementor-element-6e9c746 .widget-container ul span {
+    padding: 0 14px;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-slideup li  a span::before, .elementor-384 .elementor-element.elementor-element-6e9c746 .aux-selected span::after, .elementor-384 .elementor-element.elementor-element-6e9c746 .aux-slideup li  a span{
+    font-size: 14px;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 li .aux-selected span{
+    padding-left: 0;
+}
+.elementor-384 .elementor-element.elementor-element-6e9c746 .aux-filters ul{
+    width: 94%;
+    padding: 8px 28px;
+}
+}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
